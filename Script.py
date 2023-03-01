@@ -292,10 +292,12 @@ Name - {}
 ★Requested by</b> : {message.from_user.mention}
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+    CUSTOM_FILE_CAPTION = """
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+📥 Size : <i>{file_size}</i>
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅Jᴏɪɴ Cʜᴀɴɴᴇʟ  :  <a href="https://t.me/LusiFilms">LᴜꜱɪFɪʟᴍꜱ</a>
 ╰─────── • ◆ • ───────╯
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
