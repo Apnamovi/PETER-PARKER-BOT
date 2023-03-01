@@ -295,8 +295,8 @@ Name - {}
     CUSTOM_FILE_CAPTION = """<b>🗂️ Title : <b>{file_name}</b>
 
     📥 Size : <i>{file_size}</i>
-    
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+
+<b>╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ➪🇨🇭 Jᴏɪɴ : <a href=https://t.me/LusiFilms><b>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</b></a>"""
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
