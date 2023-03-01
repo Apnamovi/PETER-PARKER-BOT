@@ -297,7 +297,7 @@ Name - {}
     📥 Size : <i>{file_size}</i>
     
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-➪ <a href=https://t.me/LusiFilms><b>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀-</b></a>"""
+➪🇨🇭 Jᴏɪɴ : <a href=https://t.me/LusiFilms><b>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</b></a>"""
 
 ➪ <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803><b>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</b></a>"""
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
