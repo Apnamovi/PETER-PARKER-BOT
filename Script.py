@@ -4,6 +4,20 @@ class script(object):
 ✯ 1 Month = 20rs
 ✯ 3 month = 55rs
 ✯ 6 month = 100rs"""
+
+JEETU_TXT = """<b>Hᴇʟʟᴏ {},
+Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ
+Cʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈 Aɴᴅ Eɴɪᴏʏ
+
+✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ
+✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ
+
+🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈
+🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ
+🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ
+🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
     
     HELP_TXT = """<b>𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
