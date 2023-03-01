@@ -298,10 +298,8 @@ Name - {}
 <b>
 ╭─────── • ◆ • ───────╮
 🔅Jᴏɪɴ Cʜᴀɴɴᴇʟ  :  <a href="https://t.me/LusiFilms">LᴜꜱɪFɪʟᴍꜱ</a>
+🔅  <a href="https://cosmofeed.com/vig/63f24db0a03c46001fc9e803">👉Bʏ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ👈</a>
 ╰─────── • ◆ • ───────╯
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
 =========== • ✠ • ===========</b>"""
 
 
