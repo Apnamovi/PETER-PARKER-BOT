@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 
 ✯ 1 Month = 20rs
 ✯ 3 month = 55rs
-✯ 6 month = 100rs"""
+✯ 6 month = 100rs</b>"""
 
 JEETU_TXT = """<b>Hᴇʟʟᴏ {},
 Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ
@@ -17,7 +17,7 @@ Cʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc
 🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ
 🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ
 🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ
-🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
+🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ</b>"""
     
     HELP_TXT = """<b>Hᴇʟʟᴏ {},
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
