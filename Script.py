@@ -342,8 +342,7 @@ Name - {}
     UPDATES_TXT = """⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟
 🗣️ Bᴏᴛ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.
 
-JEETU_TXT = """<b>Hᴇʟʟᴏ {},
-Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ\nCʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈 Aɴᴅ Eɴɪᴏʏ\n\n✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ\n✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ\n✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ\n\n🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈\n🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ\n🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ\n🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ\n🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
+JEETU_TXT = """<b>Hᴇʟʟᴏ {},\nBʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ\nCʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈 Aɴᴅ Eɴɪᴏʏ\n\n✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ\n✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ\n✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ\n\n🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈\n🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ\n🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ\n🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ\n🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ</b>"""
 
 📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ."""
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
