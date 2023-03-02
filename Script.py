@@ -315,15 +315,15 @@ Name - {}
 ★Requested by</b> : {message.from_user.mention}
 """
 
-    CUSTOM_FILE_CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-📥 Size : <i>{file_size}</i>
-<b>
-╭─────── • ◆ • ───────╮
-🔅Jᴏɪɴ Cʜᴀɴɴᴇʟ  :  <a href="https://t.me/LusiFilms">LᴜꜱɪFɪʟᴍꜱ</a>
-🔅  <a href="https://cosmofeed.com/vig/63f24db0a03c46001fc9e803">👉Bʏ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ👈</a>
-╰─────── • ◆ • ───────╯
-=========== • ✠ • ===========</b>"""
+    CUSTOM_FILE_CAPTION = """<b>🗂️ Title : <b>{file_name}</b>
+
+    📥 Size : <i>{file_size}</i>
+<b> 
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms><b>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</b></a>
+🌹                     🌹
+➪ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803><b>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</b></a> 👈
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
 
     RESTART_TXT = """
