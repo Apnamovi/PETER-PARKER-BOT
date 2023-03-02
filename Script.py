@@ -314,9 +314,11 @@ Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9
 
 🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ
 
-🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ, Fɪʟʟ OTP
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ
 
-🌹 [Cʜᴏᴏꜱᴇ ᴘᴀʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴ]👉 Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ, [Aɴᴅ Pᴀʏ]
+🌹 Fɪʟʟ OTP
+
+🌹 Cʜᴏᴏꜱᴇ ᴘᴀʏᴍᴇɴᴛ, Aɴᴅ Pᴀʏ
 
 🌹 Yᴏᴜ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Lɪɴᴋ"""
 
@@ -332,7 +334,7 @@ Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9
 ★Requested by</b> : {message.from_user.mention}
 """
 
-    CUSTOM_FILE_CAPTION = """<b>🗂️ Title : {file_name}</b>
+    CUSTOM_FILE_CAPTION = """<b>🗂️ Title : {file_name} @LusiFilms</b>
 
 📥 Size : <b>{file_size}</b>
 
