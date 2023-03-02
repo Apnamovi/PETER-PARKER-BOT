@@ -19,6 +19,29 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙺𝙾𝚈𝙴𝙱
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
+    
+
+    JEETU_TXT = """Hᴇʟʟᴏ {},
+
+<b>Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ
+
+Cʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+
+✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ</b>
+
+✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ</b>
+
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ</b>
+
+🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+
+🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ</b>
+
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ</b>
+
+🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ</b>
+
+🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
 
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -342,7 +365,7 @@ Name - {}
     UPDATES_TXT = """⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟
 🗣️ Bᴏᴛ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.
 
-JEETU_TXT = """<b>Hᴇʟʟᴏ {},\nBʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ\nCʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈 Aɴᴅ Eɴɪᴏʏ\n\n✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ\n✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ\n✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ\n\n🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</a> 👈\n🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ\n🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ\n🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ\n🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ</b>"""
+
 
 📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ."""
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
