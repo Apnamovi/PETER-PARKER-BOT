@@ -297,20 +297,34 @@ Name - {}
 <b>© Powered by {}</b>
 """
     SUR_TXT = """
-<b>
-𝙷𝙴𝙻𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 
-</b>
-"""
+<b>Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ
+
+Cʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+
+✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ</b>
+
+✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ</b>
+
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ</b>
+
+🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+
+🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ</b>
+
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ</b>
+
+🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ</b>
+
+🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
 
     IMDB_TEMPLATE_TXT = """
-<b>⍞ 𝗧𝗶𝘁𝗹𝗲</b> : <b><i><a href={url}>{title}</a></i></b><b>
+<b>📂 Tɪᴛʟᴇ</b> : <b><i><a href={url}>{title}</a></i></b><b>
 
-⌗ 𝗚𝗲𝗻𝗿𝗲𝘀</b> :<b><i>{genres}</i></b><b>
-★ 𝗥𝗮𝘁𝗶𝗻𝗴</b> : <b><i><a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)</i></b><b>
+🎭Gᴇɴʀᴇꜱ</b> :<b><i>{genres}</i></b><b>
+★ Rᴀᴛɪɴɢ</b> : <b><i><a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)</i></b><b>
 
-〄 𝗥𝗲𝗹𝗲𝗮𝘀𝗲𝗱</b> : <b><i>{release_date}</i></b><b>
-⛤ 𝗖𝗼𝘂𝗻𝘁𝗿𝗶𝗲𝘀</b> : <b><i>{countries}</i></b><b>
+〄 Rᴇʟᴇᴀꜱᴇᴅ</b> : <b><i>{release_date}</i></b><b>
+⛤ Cᴏᴜɴᴛʀʏꜱ</b> : <b><i>{countries}</i></b><b>
 
 ★Requested by</b> : {message.from_user.mention}
 """
