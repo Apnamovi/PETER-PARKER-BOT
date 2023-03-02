@@ -332,9 +332,9 @@ Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9
 ★Requested by</b> : {message.from_user.mention}
 """
 
-    CUSTOM_FILE_CAPTION = """<b>🗂️ Title : <b>{file_name}</b>
+    CUSTOM_FILE_CAPTION = """<b>🗂️ Title : {file_name}</b>
 
-    📥 Size : <i>{file_size}</i>
+📥 Size : <i>{file_size}</i>
 <i> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</a>
