@@ -85,7 +85,7 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('Bʏ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Fᴏʀ👉 LᴜꜱɪFɪʟᴍꜱ', url=f"https://cosmofeed.com/vig/63f24db0a03c46001fc9e803"),
+            InlineKeyboardButton('Bʏ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ', callback_data='jeetu')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
