@@ -302,23 +302,23 @@ Hᴇʟʟᴏ {}, Iᴍ Tᴇʟᴇɢʀᴀᴍ Mᴏᴠɪᴇꜱ Fɪʟᴇ Pʀᴏᴠɪᴅ
 
 Bʏ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Jᴏɪɴ Aɴᴅ Wᴀᴛᴄʜ
 
-Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</b></a>
+Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</a>
 
-✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ</b>
+✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ
 
-✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ</b>
+✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ
 
-✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟷𝟶ʀꜱ</b>
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟷𝟶ʀꜱ
 
-🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+🌹 Cʟɪᴄᴋ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Lɪɴᴋ
 
-🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ</b>
+🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ
 
-🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ</b>
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ, Fɪʟʟ OTP
 
-🌹 Pᴀʏᴍᴇɴᴛ Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ</b>
+🌹 [Cʜᴏᴏꜱᴇ ᴘᴀʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴ]👉 Gᴏᴏɢʟᴇ Pᴀʏ, PʜᴏɴᴇPᴀʏ, Pᴀʏᴛᴍ, [Aɴᴅ Pᴀʏ]
 
-🌹 Yᴏᴜ Gᴇᴛ Jᴏɪɴ Lɪɴᴋ"""
+🌹 Yᴏᴜ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Lɪɴᴋ"""
 
     IMDB_TEMPLATE_TXT = """
 <b>📂 Tɪᴛʟᴇ</b> : <b><i><a href={url}>{title}</a></i></b><b>
@@ -335,12 +335,12 @@ Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9
     CUSTOM_FILE_CAPTION = """<b>🗂️ Title : <b>{file_name}</b>
 
     📥 Size : <i>{file_size}</i>
-<b> 
+<i> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms><b>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</b></a>
+➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</a>
 🌹                     🌹
-➪ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803><b>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</b></a> 👈
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+➪ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</a> 👈
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</i>"""
 
 
     RESTART_TXT = """
