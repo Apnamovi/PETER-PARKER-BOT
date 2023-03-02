@@ -186,11 +186,11 @@ async def next_page(bot, query):
                 ]
                 for file in files
         ]
-    btn.insert(0, 
-        [
+    btn.insert,
+         [
              InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-             InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo'),
-        ]
+             InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo')
+         ]
     )
 
     if 0 < offset <= 10:
@@ -489,7 +489,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🔥 ᴄʜᴀɴɴᴇʟ 🔥", url=(MAIN_CHANNEL))
+                            InlineKeyboardButton("🔥 Jᴏɪɴ Uᴘᴅᴀᴛᴇ 🔥", url=(MAIN_CHANNEL))
                         ]
                     ]
                 )
