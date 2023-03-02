@@ -334,13 +334,13 @@ Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9
 
     CUSTOM_FILE_CAPTION = """<b>🗂️ Title : {file_name}</b>
 
-📥 Size : <i>{file_size}</i>
-<i> 
+📥 Size : <b>{file_size}</b>
+
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</a>
 🌹                     🌹
 ➪ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</a> 👈
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</i>"""
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝"""
 
 
     RESTART_TXT = """
