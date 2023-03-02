@@ -297,15 +297,18 @@ Name - {}
 <b>© Powered by {}</b>
 """
     SUR_TXT = """
-<b>Bʏ Pʀᴇᴍɪᴜᴍ Pʟᴀɴ Aɴᴅ Wᴀᴛᴄʜ Dɪʀᴇᴄᴛ Fɪʟᴇ Mᴏᴠɪᴇꜱ
+<b>
+Hᴇʟʟᴏ {}, Iᴍ Tᴇʟᴇɢʀᴀᴍ Mᴏᴠɪᴇꜱ Fɪʟᴇ Pʀᴏᴠɪᴅᴇʀ Bᴏᴛ
 
-Cʟɪᴄᴋ Mᴇ Tᴏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
+Bʏ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Jᴏɪɴ Aɴᴅ Wᴀᴛᴄʜ
+
+Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</b></a>
 
 ✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ</b>
 
 ✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ</b>
 
-✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟶𝟶ʀꜱ</b>
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟷𝟶ʀꜱ</b>
 
 🌹 Cʟɪᴄᴋ Bʏᴇ Lɪɴᴋ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝐁𝐲 𝐏𝐥𝐚𝐧</b></a>
 
